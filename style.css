@@ -1,0 +1,20 @@
+.heading {
+    font-size: 40px; 
+}
+#camera {
+    width:350px;
+    height:350px; 
+    border: 2px;
+    border-style: dashed;
+    border-color: blue;
+}
+#result {
+    width:350px;
+    height:350px; 
+    border: 2px;
+    border-style: dashed;
+    border-color: blue;
+}
+body {
+    background-color: aqua;
+}
