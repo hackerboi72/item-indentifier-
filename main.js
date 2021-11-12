@@ -25,7 +25,7 @@ function modelloaded () {
     console.log("model is loaded ");
     
 }
-function check() {
+function identifyimage() {
      img = document.getElementById("captured_image"); 
      classifier.classify(img, gotresult) 
 }
